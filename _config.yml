@@ -79,7 +79,7 @@ google_plus_one_size: medium
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
 googleplus_user:
-googleplus_hidden: false
+googleplus_hidden: true
 
 # Pinboard
 pinboard_user:
@@ -98,3 +98,11 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: true
+
+linkedin_user: joshuakalpin
+
+navigation:
+- text: Home
+  url: /index.html
+- text: Archive
+  url: /blog/archives/index.html
