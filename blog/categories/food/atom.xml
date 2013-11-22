@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Joshua Kalpin's Blog]]></title>
-  <link href="http://kapin.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Food | Joshua Kalpin's Blog]]></title>
+  <link href="http://kapin.github.io/blog/categories/food/atom.xml" rel="self"/>
   <link href="http://kapin.github.io/"/>
   <updated>2013-11-21T23:33:19-08:00</updated>
   <id>http://kapin.github.io/</id>
@@ -33,35 +33,6 @@
 <p>So this all sounds awesome, but why should your company hold a Lunch With Leaders type of event? From personal experience, I can say that I’ve never felt such a connection to the fabric of the company before. Every single lunch I’ve heard a different reason why someone believes the company can succeed. I’ve also gained amazing insight into the thought process behind the various directions that company is heading currently and in the future. Lastly, it has shown a non-business side to the executive team of the company. Without this event, I’d never know that our CEO went to high school with Reel Big Fish or know additional insight into the wine industry from our CFO.</p>
 
 <p>All in all, I can say that Lunch With Leaders has been one of the highest points of my internship this term. It’s inspired me to be a better person, engineer and to think a bit differently when it comes to the software industry. If that isn’t reason enough to give it a try at your company, I don’t know what is.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Blog All the Things!]]></title>
-    <link href="http://kapin.github.io/blog/2013/11/08/blog-all-the-things/"/>
-    <updated>2013-11-08T22:54:00-08:00</updated>
-    <id>http://kapin.github.io/blog/2013/11/08/blog-all-the-things</id>
-    <content type="html"><![CDATA[<p>Well this is a long time coming to say the least. I’ve kept saying that I’m going to build my website since I started
-at UW and well it is finally here.</p>
-
-<p>This website is built with the magic that is known as <a href="http://octopress.org">Octopress</a> using the awesome <a href="https://github.com/alexgaribay/octoflat">Octoflat</a> theme.
-I’ve tweaked a few things from the default theme and will hopefully change the colours around in the future to be a little less bright, but I’m incredibly happy that it is finally done.</p>
-
-<h2 id="why-octopress">Why Octopress?</h2>
-
-<p>First, I didn’t want to deal with the pain of setting up a hosting server to run a simple website. Octopress is built on top of Jekyll, a static page generator.
-This allows me to write everything here in markdown, which is then converted into HTML when I deploy. Speaking of deploying, it is just as simple.</p>
-
-<div class="bogus-wrapper"><notextile><figure class="code"><figcaption><span>Deploying Octopress </span></figcaption>
-<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class="line-number">1</span>
-<span class="line-number">2</span>
-</pre></td><td class="code"><pre><code class=""><span class="line">rake generate
-</span><span class="line">rake deploy</span></code></pre></td></tr></table></div></figure></notextile></div>
-
-<p>Lastly, the big thing that drew me to it was the vast array of themes and plugins. I’m not a designer nor do I really enjoy digging around in vast piles of HTML and CSS to create a website from scratch.
-Having some awesome third party themes made it easy to start with someone’s awesome template and tweak it to my liking (as seen here).</p>
-
-<p>I’ll keep it short for now but I’m glad I finally got this monkey off my back.</p>
 ]]></content>
   </entry>
   
