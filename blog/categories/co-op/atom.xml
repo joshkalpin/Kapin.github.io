@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Co-op | Joshua Kalpin's Blog]]></title>
   <link href="http://kapin.github.io/blog/categories/co-op/atom.xml" rel="self"/>
   <link href="http://kapin.github.io/"/>
-  <updated>2013-12-12T22:04:12-08:00</updated>
+  <updated>2013-12-22T13:44:34-08:00</updated>
   <id>http://kapin.github.io/</id>
   <author>
     <name><![CDATA[Joshua Kalpin]]></name>
@@ -12,6 +12,61 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[San Francisco - A Retrospective]]></title>
+    <link href="http://kapin.github.io/blog/2013/12/22/san-francisco-a-retrospective/"/>
+    <updated>2013-12-22T12:45:00-08:00</updated>
+    <id>http://kapin.github.io/blog/2013/12/22/san-francisco-a-retrospective</id>
+    <content type="html"><![CDATA[<p>Before leaving 4 months ago to go to San Francisco for my latest co-op term I had a few questions for myself that I wanted to find answers for. These questions centered around what I wanted to do when I graduated including where I wanted to live and what I would do work-wise. The key things I wanted to try to answer for myself were</p>
+
+<ol>
+  <li>Can I “keep up” with the pace of Silicon Valley?</li>
+  <li>Is what I’m doing at my job different enough to justify moving to the United States?</li>
+  <li>Could I live in San Francisco? More specifically, would I enjoy living in the city?</li>
+</ol>
+
+<p>These three questions are the criteria I am using to consider the possibility of working in San Francisco when I graduate (ignoring specific jobs and salaries).</p>
+
+<h2 id="the-silicon-valley-pace">The Silicon Valley Pace</h2>
+
+<p>When first applying to co-op jobs in the United States back in my 2A term (Fall 2012), I was told that the expectations of an engineer in California were much higher than in Ontario. That subsequent co-op term I ended up working for a small startup in Waterloo called Enflick, but I kept that in my mind for a comparison point. However, after working at Lookout, a large startup, I can say that I didn’t notice this at all. </p>
+
+<p>The idea that the pace of working at a company in California is different than one in Ontario is completely false. The amount of work that was expected to be completed never required me to stay at work for insane hours (exception was the hackathon, but that wasn’t even required) or come in on weekends. Lookout might just have the perfect work-life balance for a company, but the idea that you need to work 50-60+ hour weeks is completely insane and I hope to never have to do that except in extreme circumstances. I’ll add a caveat that Lookout is a fairly mature startup and things may be different at earlier stage companies.</p>
+
+<p>So to answer the question of whether I could keep up with the pace in Silicon Valley? Yes, I definitely can because there is no special pace. I managed to make a huge impact on Lookout without changing anything from my previous co-op terms.</p>
+
+<h2 id="justification-for-moving-to-the-usa">Justification for Moving to the USA</h2>
+
+<p>The other thing I was told while applying to jobs in the United States is that there are opportunties there in the tech business that do not exist in Canada. I can say this is true in every way imaginable. In working at Lookout, I’ve never worked with such an insanely talented and experienced team. Having such experienced people around me all the time allowed me to act like a sponge and absorb as much knowledge in developing software as possible.</p>
+
+<p>To put things in perspective here is just a sampling of my team:</p>
+
+<ul>
+  <li>Two former directors at Vontu/Symantec that led the development of enterprise software at a massive scale.</li>
+  <li>A former lead architect at a major bank that developed the ability to deposit cheques with your phone’s camera.</li>
+  <li>A QE engineer that worked at Microsoft for over 10 years.</li>
+</ul>
+
+<p>On top of this there were 4-5 other members on the team who were absolute pros at what they did. If anything, I got more out of this co-op term from talking to them and receiving their feedback on my work than my actual development work.</p>
+
+<p>Speaking of actual development work, the stuff I built here would normally not be possible. In my time at Lookout I was able to touch so many different parts of the iOS application and was even given an opportunity to work with the Dynamic Analysis Security team. </p>
+
+<p>Some highlights of this include:</p>
+
+<ul>
+  <li>Creating the ability to activate our premium product (Photo Backup, of which I also contributed to) for T-Mobile JUMP and Mobsec users. This was (we think) the first iOS carrier partnership released to market.</li>
+  <li>Hacking through the Android Emulator source code to allow for increased Dynamic Analysis coverage.</li>
+  <li>Placing 9th in the company hackathon for making iOS contact backup “a million times better.”</li>
+</ul>
+
+<p>Based on the stuff I’ve built at Lookout and the knowledge I’ve learned from everyone and everything I’ve met and participated in, I can definitely say that there is a reason that California is a gigantic vacuum for tech talent around the world. And to answer the initial question, it is definitely different enough in San Francisco career-wise to justify moving here after I graduate.</p>
+
+<h2 id="living-in-san-francisco">Living in San Francisco</h2>
+
+<p>The last question is probably the hardest to answer. Could I live in San Francisco? Well, I really don’t know, which to use a political analogy means I’m leaning towards no based on where I lived and my experiences.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Why You Should Do Lunch With Leaders]]></title>
