@@ -4,7 +4,7 @@
   <title><![CDATA[Joshua Kalpin's Blog]]></title>
   <link href="http://kapin.github.io/atom.xml" rel="self"/>
   <link href="http://kapin.github.io/"/>
-  <updated>2014-01-23T14:33:40-05:00</updated>
+  <updated>2014-01-23T14:50:24-05:00</updated>
   <id>http://kapin.github.io/</id>
   <author>
     <name><![CDATA[Joshua Kalpin]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Mine All the Jobs!]]></title>
+    <link href="http://kapin.github.io/blog/2014/01/23/mine-all-the-jobs/"/>
+    <updated>2014-01-23T14:34:00-05:00</updated>
+    <id>http://kapin.github.io/blog/2014/01/23/mine-all-the-jobs</id>
+    <content type="html"><![CDATA[<p>Another term at Waterloo brings another round of hunting for the next co-op job using Jobmine. Jobmine is the wonderfully awful job board that we at Waterloo use to find our co-op jobs. The concept is pretty simple. A student applies to up to 50 postings (25 for me this time) and then employers go through the usual process of selecting people for interview. Once all the magic is done students will either get ranked, receive an offer or get rejected from the jobs they interviewed for. Then a stable marriage algorithm is run and bam, hopefully you have a job. There are a few more technical details, but almost every student at Waterloo experiences pretty much the same thing each term.</p>
+
+<p>So the real question is why in the world am I writing about Jobmine? Well, if you happen to be a lucky employer who found my website on my Resume, then this post is just for you! If you aren’t, well, this is in “the spirit of why not?”</p>
+
+<p>So back to talking about Jobmine. Each time I’ve used Jobmine there has been a different theme to what I was looking for. The first time (when I was in 2A), I wanted to work anywhere but Toronto. The second time I really wanted to go to California. This time around, location is less of a concern when compared to what I would be working on at whatever company I ended up with. The past two terms I’ve been doing iOS development and I’m ready for a change.</p>
+
+<p>So, what exactly am I looking for then? I like the nuts and bolts of software, the application logic and less so the UI. I want to do server/backend development and I’m not willing to compromise this term. To get the most out of co-op, doing something different each term is incredibly important and doing mobile development again will not get me there.</p>
+
+<p>So, with that, let the Jobmine games begin!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Why You Should Do Lunch With Leaders]]></title>
