@@ -4,7 +4,7 @@
   <title><![CDATA[Joshua Kalpin's Blog]]></title>
   <link href="http://kapin.github.io/atom.xml" rel="self"/>
   <link href="http://kapin.github.io/"/>
-  <updated>2014-03-03T17:09:07-05:00</updated>
+  <updated>2014-04-01T13:48:49-04:00</updated>
   <id>http://kapin.github.io/</id>
   <author>
     <name><![CDATA[Joshua Kalpin]]></name>
@@ -12,6 +12,123 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Give me Your Knowledge: Capstone Design]]></title>
+    <link href="http://kapin.github.io/blog/2014/04/01/give-me-your-knowledge-capstone-design/"/>
+    <updated>2014-04-01T13:46:00-04:00</updated>
+    <id>http://kapin.github.io/blog/2014/04/01/give-me-your-knowledge-capstone-design</id>
+    <content type="html"><![CDATA[<p>This is not actually a blog post but a summary of knowledge that was shared about the Software Engineering Fourth Year Design Project during the Winter 2014 term. As always this is subjective and could be different depending on circumstances.</p>
+
+<h1 id="fydp-sessions">FYDP Sessions</h1>
+
+<h2 id="returning-projects">Returning Projects</h2>
+<ul>
+  <li>UWFlow - uwflow.com</li>
+  <li>The Notist - notist.co</li>
+</ul>
+
+<h2 id="what-they-wish-they-knew">What They wish they knew</h2>
+<ul>
+  <li>Make sure your entire group isn’t taking trains, graphics, etc. all at the same time.</li>
+  <li>Don’t work with your significant other. Group breakups are bad…</li>
+  <li>Start generating ideas early on, even before starting on design project.
+    <ul>
+      <li>Keep a daily journal of ideas that come to mind and then discuss them with others</li>
+    </ul>
+  </li>
+  <li>Keep a goal in mind for symposium (e.g. have lots of users) and work backwards from there</li>
+  <li>If your application requires users launch early</li>
+  <li>Don’t necessarily choose long-term technologies, it can be important to launch soon.</li>
+  <li>Start early and launch early. It allows you to write higher quality code in the long run.</li>
+  <li>If you are doing a research project, make sure it has good engineering. Good infrastructure, testing, build systems, etc. It can pay off in the long run (figuratively and literally).
+    <ul>
+      <li>Top two teams in 2014 had amazing infrastructure</li>
+      <li>Build/Test infrastructure pushed Amalgam over the top</li>
+      <li>The sponser loves this (=&gt; $$$)</li>
+    </ul>
+  </li>
+  <li>Research code is awful. Make sure your code is actually good. Crappy code is really bad…
+    <ul>
+      <li>Apparently, Rayside’s code is not the WORST, but still bad</li>
+    </ul>
+  </li>
+  <li>Customer Definitions:
+    <ul>
+      <li>Research -&gt; Professor</li>
+      <li>Open Source -&gt; Maintainers</li>
+      <li>Corporate -&gt; Actually Client</li>
+      <li>Entrepreneurial -&gt; More of a technical mentor</li>
+      <li>Language will be clarified in 3B</li>
+    </ul>
+  </li>
+  <li>Be pro-active about ideas, team, ideas.</li>
+  <li>Schedule frequent meetings (Mixbox did 3 times a week). Used to work on the project</li>
+  <li>Having one strong voice in the project to make defining decisions (Team Lead, Vocal People, etc.). Gives motivation and guidance</li>
+  <li>If you get a lot of work done in the school terms, you most likely won’t get it done over the workterm
+    <ul>
+      <li>Hard to arrange meetings, communication, etc.</li>
+    </ul>
+  </li>
+  <li>Need good tools to figure what everyone is doing.
+    <ul>
+      <li>Pivotal Tracker for task planning (iterations)</li>
+      <li>Hipchat for communication</li>
+      <li>Github for Pull Requests + Code Reviews</li>
+      <li>Helps for asynchronous communication</li>
+    </ul>
+  </li>
+  <li>Having a group member going on exchange can have a lot of difficulty
+    <ul>
+      <li>Weird meeting times because of time zones, exam times, etc.</li>
+      <li>You don’t see them every day</li>
+      <li>Workload won’t be balanced while on exchange</li>
+    </ul>
+  </li>
+  <li>Inter-disciplinary groups can have some unique quirks
+    <ul>
+      <li>Hard to schedule</li>
+      <li>But can give a different perspective</li>
+    </ul>
+  </li>
+  <li>80/90% of work will be done together</li>
+</ul>
+
+<h2 id="qa">Q&amp;A</h2>
+
+<p>Q: Is there a good strategy for mitigating the co-op fall off (maintaining momentum during co-op)?</p>
+
+<p>A1: Teams can potentially live together during a co-op term (may drive you insane). Be careful of doing this… REALLY CAREFUL!</p>
+
+<p>A2: Chris &amp; Ming-Ho lived together and didn’t murder each other. Results may vary. Still tried to schedule regular meetings (cross-time-zone). Built the entire infrastucture during the co-op term. However, it was not completely steady throughout the work term. tldr; Meetings and if they didn’t do it would be bad.</p>
+
+<p>A3: Research and actively still looking at projects etc. can help a lot during the term. Examples are testing, different libraries to speed up development. Play with “competitors” if you have them - could learn things.</p>
+
+<p>A4: It may not be possible to work on it during a work term. Amazon, Google (Interns) and IBM are really bad at this. Keep this in mind.</p>
+
+<p>A5: Set deadlines for yourself (not necessarily meaningful).</p>
+
+<p>Q: What are measures of success for a FYDP?</p>
+
+<p>A: Measured in technical content, results and communication. Less of a undergraduate marking scheme. Pick a project that someone will care about after your graudate and do a good job. Demonstrate how people care about your project. Project specific basis for success (going add examples). UWFlow is the low bar for  doing a CRUD (Create, Read, Update, Delete) project that everyone has tried before (did YCominbator pitch). We’ll get a list of projects that have done well as examples.</p>
+
+<p>Q: How does a measure of success change if it is a taken over project?</p>
+
+<p>A: Choose a project that as an extension is as ambitious as the original project. </p>
+
+<p>Q: When do you know when you want to work on something?</p>
+
+<p>A1: A lot of ideas will be pitched to us from various locations. Don’t worry too much about thinking of an amazing idea.</p>
+
+<p>A2: Massive brainstorming sessions with people you want to work with can be useful.</p>
+
+<p>A3: Can be a challenge to rally people around your idea, it may not be interesting to anyone but yourself. Think about what sorts of things you have in common with your classmates to direct ideas.</p>
+
+<p>A4: This process will tried to be facilitated in 3B (SE 390). Keep all the other ideas for a potential SE499 (Independent project) if it doesn’t work out for FYDP.</p>
+
+<p>A5: When deciding whether to organize an idea or a team, Mack says to organize around a team rather than an idea. Can usually find some interest. However, Rayside says to remain open-minded.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Mine All the Jobs!]]></title>
