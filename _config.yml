@@ -98,15 +98,4 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: true
-
 linkedin_user: joshuakalpin
-
-navigation:
-- text: Home
-  url: /index.html
-- text: Archive
-  url: /blog/archives/index.html
-- text: Resume
-  url: /resume.pdf
-- text: About
-  url: /about.html

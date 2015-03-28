@@ -3,18 +3,18 @@ layout: post
 title: "Give me Your Knowledge: Capstone Design"
 date: 2014-04-01 13:46
 comments: true
-categories: 
+categories:
 ---
 
 This is not actually a blog post but a summary of knowledge that was shared about the Software Engineering Fourth Year Design Project during the Winter 2014 term. As always this is subjective and could be different depending on circumstances.
 
-#FYDP Sessions
+##FYDP Sessions
 
-##Returning Projects
+###Returning Projects
 * UWFlow - uwflow.com
 * The Notist - notist.co
 
-##What They wish they knew
+####What They wish they knew
 * Make sure your entire group isn't taking trains, graphics, etc. all at the same time.
 * Don't work with your significant other. Group breakups are bad...
 * Start generating ideas early on, even before starting on design project.
@@ -74,7 +74,7 @@ A: Measured in technical content, results and communication. Less of a undergrad
 
 Q: How does a measure of success change if it is a taken over project?
 
-A: Choose a project that as an extension is as ambitious as the original project. 
+A: Choose a project that as an extension is as ambitious as the original project.
 
 Q: When do you know when you want to work on something?
 
