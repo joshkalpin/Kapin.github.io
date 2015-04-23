@@ -7,7 +7,7 @@ title: Joshua Kalpin's Blog
 subtitle: A Spot for My Rambling Thoughts
 author: Joshua Kalpin
 simple_search: http://google.com/search
-description:
+description: Joshua Kalpin's Blog. A place for me to get what is on my mind in writing.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -94,7 +94,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-62202328-1
 
 # Facebook Like
 facebook_like: true
