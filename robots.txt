@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallow: 
 
-Sitemap: http://joshuakalp.in/sitemap.xml
+Sitemap: http://joshuakalp.in/sitemap.xml 
