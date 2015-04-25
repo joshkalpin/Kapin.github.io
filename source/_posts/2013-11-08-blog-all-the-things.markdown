@@ -3,7 +3,7 @@ layout: post
 title: "Blog All the Things!"
 date: 2013-11-08 22:54
 comments: true
-categories: Random
+categories:
 ---
 
 Well this is a long time coming to say the least. I've kept saying that I'm going to build my website since I started
